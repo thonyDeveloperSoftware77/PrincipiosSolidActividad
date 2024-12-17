@@ -1,6 +1,8 @@
+package srp;
 import java.util.regex.Pattern;
 
-class UserManagerOriginal {
+
+public class UserManagerOriginal {
     public void addUser(String email, String password) {
         if (isValidEmail(email) && isValidPassword(password)) {
             saveToDatabase(email, password);
