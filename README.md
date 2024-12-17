@@ -1,3 +1,5 @@
+Integrantes: Gabriel Erazo, Angel Vela, Anthony Cochea, Erick Rosero
+
 # Reflexión sobre el Principio SOLID - Single Responsibility Principle (SRP)
 
 El **Single Responsibility Principle (SRP)** es uno de los principios fundamentales del diseño de software, parte de SOLID. Este principio establece que una clase debe tener una única razón para cambiar, es decir, debe estar enfocada en una sola responsabilidad o propósito. Aplicar SRP mejora la mantenibilidad, legibilidad y escalabilidad del código, ya que divide las responsabilidades entre diferentes clases.
